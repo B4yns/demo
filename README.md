@@ -1,1 +1,3 @@
-This is my First GitHub Project
+Hello there! I'm Jamie Beatrice L. Olivar, a Computer Science major from Mapua University.
+
+With a background in technical writing, I've had the opportunity to work on various programming languages. In this repository, you'll find a CSV file generated using Python, which lists the files inside a folder I created. This file showcases some of the articles and topics I've updated, reflecting my experience and expertise in the field.
